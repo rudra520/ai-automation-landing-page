@@ -1,9 +1,3 @@
-
-Based on the repository structure and details from your [ai-automation-landing-page](https://github.com/rudra520/ai-automation-landing-page/tree/main) repository, here is a premium, interactive, and beautifully formatted `README.md` file.
-
-You can copy and paste the markdown block below directly into your project:
-
-```markdown
 # ⚡ Next-Gen AI Data Automation Landing Page
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -26,7 +20,6 @@ A premium, high-converting, and hyper-responsive landing page tailored for a **N
 ## 📂 Project Structure
 
 ```text
-├── .env.example        # Template for environment variables
 ├── .gitignore          # Git exclusion rules
 ├── LICENSE             # MIT License
 ├── README.md           # Project documentation
