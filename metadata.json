@@ -1,0 +1,6 @@
+{
+  "name": "Isolated Pricing Engine",
+  "description": "An ultra-high-performance pricing interface with zero parent re-renders and direct leaf-node DOM state updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
