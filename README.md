@@ -14,7 +14,7 @@ A premium, hyper-responsive, and high-converting B2B landing page engineered for
 
 Below is a glimpse of the production-ready landing page MVP. You can interact with the live version right here: [Live Preview Link](https://animated-jalebi-8ab9d2.netlify.app/).
 
-![Computation Corp Preview](https://images.unsplash.com/photo-1600132806370-bf17e65e942f?auto=format&fit=crop&w=1200&q=80)
+![Computation Corp Preview](Preview-img.png)
 *Note: The UI features a high-fidelity dark-mode enterprise grid aesthetic layout with fluid typography and smooth micro-interactions.*
 
 ---
